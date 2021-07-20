@@ -1,0 +1,6 @@
+.idea
+CMakeFiles
+*.dll
+*.cbp
+Makefile
+*.exe
